@@ -68,8 +68,6 @@ Se utiliza el modelo para hacer predicciones en el archivo de muestra proporcion
 Determinar al Ganador
 Se utiliza la función final_winner para determinar al ganador de la ronda final. La función mezcla la lista de ganadores y elimina equipos hasta que solo quede un ganador. Por último, se imprime el nombre y la ID del ganador.
 
-Contribuidores
-Adrian Infantes - infantesromeroadrian@gmail.com
 
 
 Tenga en cuenta que este README resume los pasos y la información proporcionados en el código. Se pueden encontrar más detalles sobre el proyecto y la implementación en el código y en los comentarios del mismo.
